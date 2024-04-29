@@ -1,0 +1,21 @@
+:root {
+    --primario01: #ff8484;
+  }
+
+  .navbar{
+    background-color: var(--primario01) !important;
+  }
+
+  .btnRojo {
+    color: red;
+    border-color: red;
+  }
+  .btnRojo:hover {
+    background-color: red;
+    border-color: red;
+  }
+
+  .tamaño{
+    font-size: xx-large;
+  }
+  
